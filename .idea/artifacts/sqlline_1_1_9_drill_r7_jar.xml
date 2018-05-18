@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sqlline-1.1.9-drill-r7:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sqlline_1_1_9_drill_r7_jar</output-path>
+    <root id="archive" name="sqlline-1.1.9-drill-r7-sources.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/sqlline/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
